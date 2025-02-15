@@ -1,0 +1,65 @@
+/* size */
+
+.font20 {
+    font-size: clamp(16px, 1.8vw, 20px);
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font36 {
+    font-size: 36px;
+}
+
+.font48 {
+    font-size: clamp(24px, 4vw, 48px);
+}
+
+.font64 {
+    font-size: clamp(24px, 4vw, 64px);
+}
+
+.font12 {
+    font-size: 12px;
+} 
+
+/* wight */
+
+.bold {
+    font-weight: bold;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.cap {
+    text-transform: capitalize;
+}
+
+.white {
+    color: white;
+}
+
+/* spase */
+
+.line25 {
+    line-height: 25px;
+}
+
+.line30 {
+    line-height: 30px;
+}
+
+.line35 {
+    line-height: 35px;
+}
